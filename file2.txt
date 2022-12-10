@@ -1,3 +1,4 @@
 Goodbye
 Some other line
 Line form user2
+critical bug fixed
